@@ -1,6 +1,6 @@
 # Website-Personal1
-Web
-<!DOCTYPE html>
+KARINA EKA AMELIA
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
